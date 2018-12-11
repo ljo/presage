@@ -13,7 +13,7 @@ Version: __version__
 Release: 1
 Summary: Presage Language support for __Language__
 License: MIT
-URL: https://github.com/rinigus/presage
+URL: https://github.com/sailfish-keyboard/presage
 Source: %{name}-%{version}.tar.xz
 BuildArch: noarch
 
